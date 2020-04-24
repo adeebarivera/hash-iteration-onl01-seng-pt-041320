@@ -69,6 +69,16 @@ def age_appropriate_birthday(birthday_kids)
     end
 end
 
+<<<<<<< HEAD
+=======
+# def age_appropriate_birthday ;""
+#   birthday_kids.each do |name,age|
+#   if age == :age_12 ?
+#   puts {Happy Birthday #{name}! You are now #{age} years old}
+#   age_appropriate_birthday ;""
+#   }
+# end
+>>>>>>> 4a8f47e4b608e49af1049f263a20c8cbd6d809a9
 
 
 
